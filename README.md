@@ -1,1 +1,1 @@
-<br>Built a responsive restaurant app with menu, ordering, and reservation features</br>.<br>Integrated JavaScript for interactive UI and smooth customer experience</br>.<br>Currently improving design with Bootstrap for a professional look.</br>
+<br>Built a responsive restaurant app with menu, ordering, and reservation features</br><br>Integrated JavaScript for interactive UI and smooth customer experience</br><br>Currently improving design with Bootstrap for a professional look</br>
